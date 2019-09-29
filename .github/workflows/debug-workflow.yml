@@ -1,3 +1,6 @@
+name: 'Debug workflow'
+on: [push]
+
 jobs:
   build:
     name: Debug
